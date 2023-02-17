@@ -1,0 +1,15 @@
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/bin/Debug/net7.0/ContactManager
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/bin/Debug/net7.0/ContactManager.deps.json
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/bin/Debug/net7.0/ContactManager.runtimeconfig.json
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/bin/Debug/net7.0/ContactManager.dll
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/bin/Debug/net7.0/ContactManager.pdb
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/obj/Debug/net7.0/ContactManager.csproj.AssemblyReference.cache
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/obj/Debug/net7.0/ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/obj/Debug/net7.0/ContactManager.AssemblyInfoInputs.cache
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/obj/Debug/net7.0/ContactManager.AssemblyInfo.cs
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/obj/Debug/net7.0/ContactManager.csproj.CoreCompileInputs.cache
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/obj/Debug/net7.0/ContactManager.dll
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/obj/Debug/net7.0/refint/ContactManager.dll
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/obj/Debug/net7.0/ContactManager.pdb
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/obj/Debug/net7.0/ContactManager.genruntimeconfig.cache
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/ContactManager/ContactManager/obj/Debug/net7.0/ref/ContactManager.dll
